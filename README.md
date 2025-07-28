@@ -1,3 +1,5 @@
+# Deployed Link :-> https://anshcoderrepo.github.io/Ochi_clone/
+
 # Ochi - Strategic Presentation Agency
 
 Ochi is a strategic presentation agency for forward-thinking businesses that need to raise funds, sell products, explain complex ideas, and hire great people.
@@ -86,7 +88,7 @@ npm run deploy
 
 ## Homepage
 
-Visit the live project at: [Ochi GitHub Pages](https://AnshCoderRepo.github.io/Ochi_clone)
+Visit the live project at: [Ochi GitHub Pages](https://anshcoderrepo.github.io/Ochi_clone/)
 
 ## License
 
